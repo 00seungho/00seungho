@@ -14,3 +14,4 @@
 현재 진행중인 프로젝트
 
 1. 빵먹는아이 봇
+-https://github.com/00seungho/discord-bbangbot
