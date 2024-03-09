@@ -13,5 +13,13 @@
 
 현재 진행중인 프로젝트
 
-1. 빵먹는아이 봇
--https://github.com/00seungho/discord-bbangbot
+1. [빵먹는아이 봇 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>](https://github.com/00seungho/discord-bbangbot)
+
+
+
+완료한 프로젝트
+1. [밈생성기 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>](https://github.com/00seungho/meme-generator/tree/main)
+2. [지구근접물체 탐색기 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>](https://github.com/00seungho/Close-Approaches-of-Near-Earth-Objects)
+3. [가온나들목  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+](https://github.com/00seungho/GaonNadulmok)
+4. [Movie Stroy <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>](https://github.com/00seungho/movie_story)
