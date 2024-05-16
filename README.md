@@ -8,7 +8,7 @@ python seungho.py --input coffice☕
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [<img src="https://img.shields.io/badge/C Language-A8B9CC?style=flat-square&logo=C&logoColor=white"/>](https://learn.microsoft.com/ko-kr/cpp/c-language/?view=msvc-170)
-<hr>
+----------
 
 사용 가능한 프레임워크
 ----------
@@ -20,15 +20,15 @@ python seungho.py --input coffice☕
 [<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>](https://spring.io/projects/spring-boot)
 [<img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/>](https://flask.palletsprojects.com/en/3.0.x/)
 [<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/)
-<hr>
+----------
 
 사용 가능한 os
-----
+----------
 [<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>](https://github.com/)
 [<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>](https://github.com/)
 [<img src="https://img.shields.io/badge/windows-0078D4?style=flat-square&logo=windows10&logoColor=white"/>](https://github.com/)
 [<img src="https://img.shields.io/badge/Raspbian-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>](https://github.com/)
-<hr>
+----------
 
 
 
