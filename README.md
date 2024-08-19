@@ -40,7 +40,7 @@ python seungho.py --input coffice☕
 ----
 1. [빵먹는아이 봇 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>](https://github.com/00seungho/discord-bbangbot)
 2. [face parsing model <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>](https://github.com/TeamRealGlow/face_parsing_model)
-
+3. [MZtoX](https://github.com/teamMZtoX)
 완료한 프로젝트
 --
 1. [밈생성기 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/>](https://github.com/00seungho/meme-generator/tree/main)
