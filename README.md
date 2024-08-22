@@ -32,8 +32,10 @@ python seungho.py --input coffice☕
 
 
 
-
-
+팀 프로젝트
+----
+1. [face parsing model <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>](https://github.com/TeamRealGlow/face_parsing_model)
+2. [MZtoX](https://github.com/teamMZtoX)
 
 
 현재 진행중인 프로젝트
@@ -41,11 +43,18 @@ python seungho.py --input coffice☕
 1. [빵먹는아이 봇 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>](https://github.com/00seungho/discord-bbangbot)
 2. [face parsing model <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>](https://github.com/TeamRealGlow/face_parsing_model)
 3. [MZtoX](https://github.com/teamMZtoX)
-   
+
 완료한 프로젝트
---
+----
 1. [밈생성기 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/>](https://github.com/00seungho/meme-generator/tree/main)
 2. [지구근접물체 탐색기 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>](https://github.com/00seungho/Close-Approaches-of-Near-Earth-Objects)
 3. [가온나들목  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 ](https://github.com/00seungho/GaonNadulmok)
 4. [Movie Stroy <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>](https://github.com/00seungho/movie_story)
+
+certificate
+----
+1. UDACITY Intermediate Python
+<a href="confirm.udacity.com/e/6e0ca150-4d1a-11ee-abf8-572ee5ae121d"><img src="imgs/UDACITY.jpg">
+
+
