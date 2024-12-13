@@ -153,8 +153,24 @@ python seungho.py --input coffice☕
 
 
 
-대외활동
-----
+## 🌐 **대외활동**
 
-<h3>1. UDACITY Intermediate Python 과정<h3>
-<a href="confirm.udacity.com/e/6e0ca150-4d1a-11ee-abf8-572ee5ae121d"><img src="imgs/UDACITY.jpg"></a>
+---
+
+### 🧑‍💻 **1. Azure 클라우드 심화 과정**
+> **Azure 심화 학습 과정**  
+> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>  
+> 클라우드 컴퓨팅의 핵심 기술을 학습하고, **Azure의 클라우드 인프라 서비스**에 대한 심층 지식을 쌓기 위해 참여한 과정
+> <img src="imgs/azure.png" alt="Azure 인증서" height="500"/>
+
+---
+
+### 📘 **2. UDACITY Intermediate Python 과정**
+> **UDACITY Intermediate Python 과정 수료**  
+> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+> **중급 파이썬 프로그래밍 스킬**및 **고급 파이썬 문법 및 모듈 활용 능력**을 향상시키기 위해 참여한 과정
+> 
+> [<img src="imgs/UDACITY.jpg" alt="UDACITY 인증서" width="500"/>](https://confirm.udacity.com/e/6e0ca150-4d1a-11ee-abf8-572ee5ae121d)  
+> **🔗 [인증서 보기](https://confirm.udacity.com/e/6e0ca150-4d1a-11ee-abf8-572ee5ae121d)**
+
+---
