@@ -147,9 +147,24 @@ python seungho.py --input coffice☕
 
 ## 📚 **연구**
 ---
-#### 1. [DQN 알고리즘을 이용한 강화학습](https://github.com/00seungho/DQNTensorflow)  
+#### 1. 한국폴리텍I대학 산학협력단 AI Musculoskeletal Expert System 기초연구 수행
+
+#### 2. [DQN 알고리즘을 이용한 강화학습](https://github.com/00seungho/DQNTensorflow)  
 > **Python의 Tensorflow와 Unity를 활용한 강화학습 알고리즘 구현 및 연구**  
 
+
+
+## 📜 **수상내역**  
+---
+
+#### 1. **교내 졸업작품 경진대회 은상 수상** 🥈  
+> **한국폴리텍 1대학장상**  
+
+#### 2. **2024 WORLD CREATIVE ROBOT CONTEST 은상 수상** 🥈  
+> **한국폴리텍대학 이사장상**  
+
+#### 3. **2024 마이크로소프트 클라우드 AI모델 경진대회 참가상 수상** 🎖  
+> **마이크로소프트 글로벌 트레이닝 파트너 ㈜ 엘릭서**  
 
 
 
