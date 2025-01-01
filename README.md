@@ -83,6 +83,18 @@ python seungho.py --input coffice☕
 
 ---
 
+#### 4. [민원고](https://github.com/00seungho/figting)
+> **길거리 보도 불편 민원을 쉽고 간편하게 신고하는 솔루션**
+
+- **프로젝트 개요**: 길거리 보도 불편 민원을 사진 촬영만 하면 민원 게시판에 자동으로 신고되는 솔루션입니다.  
+- **주요 기능**:  
+  - **길거리 보도 불편 민원 사진촬영 어플리케이션** 제공.  
+  - AI 관제 서버에서 **RestAPI를 통해 서버 관리**.  
+  - **Azure Custom Vision**을 활용한 **객체 탐지(Object Detection)**.  
+  - **Spring Boot** 기반의 민원 게시판에 **민원 자동 등록** 기능.
+  - 
+---
+
 ### 🧑‍💻 **개인 프로젝트**
 
 #### 1. [Every Poly!](https://github.com/00seungho/PolyBoard)  
