@@ -92,7 +92,7 @@ python seungho.py --input coffice☕
   - AI 관제 서버에서 **RestAPI를 통해 서버 관리**.  
   - **Azure Custom Vision**을 활용한 **객체 탐지(Object Detection)**.  
   - **Spring Boot** 기반의 민원 게시판에 **민원 자동 등록** 기능.
-  - 
+    
 ---
 
 ### 🧑‍💻 **개인 프로젝트**
