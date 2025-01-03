@@ -115,7 +115,7 @@ python seungho.py --input coffice☕
 
 ---
 
-#### 2 [서울정수캠퍼스 학식 챗봇](https://github.com/00seungho/SeoulJungsooChatbot)  
+#### 2. [서울정수캠퍼스 학식 챗봇](https://github.com/00seungho/PolyLanchBot)
 > **서울정수캠퍼스 학식 정보를 제공하는 웹 기반 챗봇**  
 > <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
 > <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> 
