@@ -172,7 +172,21 @@ python seungho.py --input coffice☕
 
 ---
 
-#### 3. [빵먹는아이 봇](https://github.com/00seungho/discord-bbangbot)  
+#### 3. [문장 라벨링 툴](https://github.com/00seungho/Sentence_labeling_tool)
+
+> TSV 기반의 문장을 라벨링을 도와주는 Windows 프로그램
+- **프로젝트 개요**: **MZTOX 프로젝트** 중 팀원의 라벨링 작업을 지원하기 위해 제작된 툴
+> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+> <img src="https://img.shields.io/badge/pyside-41CD52?style=flat-square&logo=qt&logoColor=white"/> 
+> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+- **주요 기능**: 
+    - **TSV 파일 로드** 원문과 번역문 데이터를 불러와 작업 가능.
+    - **직관적인 라벨링** 원문은 읽기 전용, 번역문은 수정 가능.
+    - **단축키 지원** 작업 속도를 높이는 단축키 제공 (복사, 삭제, 탐색).
+    - **자동 저장** JSON 파일에 작업 위치를 자동으로 저장.
+    - **탐색 기능** 전체 문장 개수와 현재 위치 표시, 버튼으로 문장 이동 가능.
+
+#### 4. [빵먹는아이 봇](https://github.com/00seungho/discord-bbangbot)  
 > **디스코드 봇 어플리케이션**  
 > <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 
@@ -183,7 +197,7 @@ python seungho.py --input coffice☕
 
 ---
 
-#### 4. [밈생성기](https://github.com/00seungho/meme-generator/tree/main)  
+#### 5. [밈생성기](https://github.com/00seungho/meme-generator/tree/main)  
 > **MEME 생성 웹 어플리케이션**  
 > <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
@@ -194,7 +208,7 @@ python seungho.py --input coffice☕
 
 ---
 
-#### 5. [지구근접물체 탐색기](https://github.com/00seungho/Close-Approaches-of-Near-Earth-Objects)  
+#### 6. [지구근접물체 탐색기](https://github.com/00seungho/Close-Approaches-of-Near-Earth-Objects)  
 > **CLI 기반의 지구근접물체 탐색기**  
 > <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
@@ -205,7 +219,7 @@ python seungho.py --input coffice☕
 
 ---
 
-#### 6. [Movie Story](https://github.com/00seungho/movie_story)  
+#### 7. [Movie Story](https://github.com/00seungho/movie_story)  
 > **HTML + JS 기반의 프론트엔드 실습 프로젝트**  
 > <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
